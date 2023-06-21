@@ -1,18 +1,12 @@
-### bruh
+# Hi! 👋
+My name is Anna (she/her). I'm an amatuer developer that is also a data hoarder, a nerd, a metalhead, and a whole swath of other things.
 
-<!--
-### Hi there 👋
+My main projects are pinned below.
 
-**HIDEN64/HIDEN64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is some stats that you could probably find out yourself:
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cs,python,nodejs,js,html,css,powershell,git,discord,linux,nginx,vscode,ps)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIDEN64&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIDEN64&layout=donut)
