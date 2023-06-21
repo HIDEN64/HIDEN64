@@ -7,6 +7,6 @@ Here is some stats that you could probably find out yourself:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,python,nodejs,js,html,css,powershell,git,discord,linux,nginx,vscode,ps)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIDEN64&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=dark&username=HIDEN64&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIDEN64&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=HIDEN64&layout=donut)
