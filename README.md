@@ -1,8 +1,6 @@
-# Hi! 👋
-My name is Dylan (they/he). I'm a hobbyist developer and systems administrator.
+# Greetings! 👋
+My name is Dylan (he/they). I do the funny with retro hardware and software.
 
-Most of my repositories are found on my [Forgejo instance](https://git.hiden.cc/HIDEN/). I mostly just use this account for working on WebTV Redialed.
+Most of my projects are hosted on my [Forgejo instance](https://git.hiden.cc/explore/). This account is only used for OSS contributions.
 
-Here is what I'm most experienced with:
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,nodejs,js,html,css,powershell,git,discord,linux,nginx,visualstudio,vscode,vim,ps)](https://skillicons.dev)
+[![skillicons thing](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,java,nodejs,js,html,css,git,linux,nginx,vim)](https://skillicons.dev)
