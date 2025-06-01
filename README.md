@@ -1,6 +1,8 @@
 # Greetings! 👋
-My name is Dylan (he/they). I do the funny with retro hardware and software.
+My name is Dylan (he/they). I make retro hardware/software do things they were never intended to.
 
-Most of my projects are hosted on my [Forgejo instance](https://git.hiden.cc/explore/). This account is only used for OSS contributions.
+Main things I do these days is develop [WebTV Redialed](https://webtv.zone), [CrossTalk](https://crosstalkim.xyz), and help out with digital signage for [CPC-Computing](https://github.com/CPC-Computing). I'll also contribute to FOSS projects every now and then :P.
 
-[![skillicons thing](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,java,nodejs,js,html,css,git,linux,nginx,vim)](https://skillicons.dev)
+You can find most of my repoes on my [Forgejo instance](https://git.hiden.cc/explore/).
+
+[![skillicons thing](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,java,nodejs,js,html,css,bootstrap,git,linux,vim)](https://skillicons.dev)
