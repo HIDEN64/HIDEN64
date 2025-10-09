@@ -5,4 +5,4 @@ Main things I do these days is run [CrossTalk](https://crosstalkim.xyz) and [Web
 
 You can find most of my repoes on my [Forgejo instance](https://git.hiden.cc/explore/).
 
-[![skillicons thing](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,java,nodejs,js,html,css,bootstrap,php,sqlite,mysql,git,linux,vim)](https://skillicons.dev)
+[![skillicons thing](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,java,nodejs,js,html,css,bootstrap,php,sqlite,mysql,git,linux,bash,vim)](https://skillicons.dev)
